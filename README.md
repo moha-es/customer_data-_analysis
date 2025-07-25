@@ -61,7 +61,7 @@ Customers were grouped into age ranges to observe spending trends.
 Customers aged 28–37 have the highest average spending score.  
 They may represent a key marketing target.
 
-![Spending by Age Group](avs_spending_by_group)
+![Spending by Age Group](avg_spending_by_group)
 
 ---
 
