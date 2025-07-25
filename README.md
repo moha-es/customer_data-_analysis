@@ -37,7 +37,7 @@ A scatter plot comparing annual income with spending score.
 There is no strong correlation between income and spending score.  
 Some low-income customers spend more than high-income customers, suggesting that income does not predict spending behavior.
 
-![Income vs Spending](income_vs_spending score)
+![Income vs Spending](income_vs_spending )
 
 ---
 
