@@ -78,7 +78,7 @@ They may represent a key marketing target.
 **Mohamed Eswai**  
 📍 Granada, Spain  
 📧 m.eswai@icloud.com  
-🔗 [LinkedIn](#) *(Insert your real LinkedIn URL here)*
+🔗 [LinkedIn](#) *(https://www.linkedin.com/in/mohamed-eswai-31207b372/)*
 
 ---
 
