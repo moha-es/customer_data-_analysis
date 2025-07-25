@@ -67,7 +67,7 @@ They may represent a key marketing target.
 
 ## 📁 Files Included
 
-- `Customer_Segmentation_Analysis.xlsx` – Full Excel workbook with charts and pivot tables  
+- `mall_customer_project.xlsx` – Full Excel workbook with charts and pivot tables  
 - `.png` files – Visuals of charts  
 - `README.md` – Project summary with insights
 
